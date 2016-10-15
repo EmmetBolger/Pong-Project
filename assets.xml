@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.5977">
+  <sounds />
+  <images>
+    <image name="button-start-game">
+      <file name="button-start-game.png" size="57815" />
+    </image>
+    <image name="embed">
+      <file name="embed.png" size="8790" />
+    </image>
+    <image name="embed (1)">
+      <file name="embed (1).png" size="19568" />
+    </image>
+    <image name="13878054-Blue-lined-paper-texture-background-Stock-Photo">
+      <file name="13878054-Blue-lined-paper-texture-background-Stock-Photo.png" size="474348" />
+    </image>
+    <image name="lined-paper-background">
+      <file name="lined-paper-background.png" size="2591283" />
+    </image>
+    <image name="straight-line-YqrRSN-clipart">
+      <file name="straight-line-YqrRSN-clipart.png" size="4404" />
+    </image>
+    <image name="unnamed">
+      <file name="unnamed.png" size="7491" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>

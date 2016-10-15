@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene PGFVersion="0.25" GSCVersion="1.25.5977" id="id808247">
+  <layers>
+    <layer id="id417087">
+      <actors>
+        <actor id="id507366" prototype="id313974">
+          <attributes>
+            <point id="position">
+              <real id="x">510</real>
+              <real id="y">386</real>
+            </point>
+            <size id="size">
+              <real id="width">1044</real>
+              <real id="height">788</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id831747" prototype="id752485">
+          <attributes>
+            <point id="position">
+              <real id="x">512</real>
+              <real id="y">741</real>
+            </point>
+            <size id="size">
+              <real id="width">1023</real>
+              <real id="height">53</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">1</real>
+              <real id="blue">1</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">straight-line-YqrRSN-clipart</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id725670" prototype="id752485">
+          <attributes>
+            <point id="position">
+              <real id="x">514</real>
+              <real id="y">27</real>
+            </point>
+            <size id="size">
+              <real id="width">1033</real>
+              <real id="height">53</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Actor 1 Copy 1</text>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">1</real>
+              <real id="blue">1</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">straight-line-YqrRSN-clipart</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id915529" prototype="id706515">
+          <attributes>
+            <point id="position">
+              <real id="x">887</real>
+              <real id="y">387</real>
+            </point>
+            <size id="size">
+              <real id="width">176</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <text id="name">Actor 2 Copy 1</text>
+            <image id="image">straight-line-YqrRSN-clipart</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">true</boolean>
+                <real id="density">1</real>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id268227" prototype="id454657">
+          <attributes>
+            <point id="position">
+              <real id="x">512</real>
+              <real id="y">384</real>
+            </point>
+            <size id="size">
+              <real id="width">57</real>
+              <real id="height">59</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">unnamed</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id674009" prototype="id699944">
+          <attributes>
+            <point id="position">
+              <real id="x">6</real>
+              <real id="y">386</real>
+            </point>
+            <size id="size">
+              <real id="width">709</real>
+              <real id="height">81</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">1</real>
+              <real id="blue">1</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">straight-line-YqrRSN-clipart</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id943837" prototype="id610812">
+          <attributes>
+            <point id="position">
+              <real id="x">1020</real>
+              <real id="y">386</real>
+            </point>
+            <size id="size">
+              <real id="width">709</real>
+              <real id="height">70</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">1</real>
+              <real id="blue">1</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">straight-line-YqrRSN-clipart</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id453194" prototype="id991506">
+          <attributes>
+            <point id="position">
+              <real id="x">151</real>
+              <real id="y">388</real>
+            </point>
+            <size id="size">
+              <real id="width">173</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <image id="image">straight-line-YqrRSN-clipart</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">true</boolean>
+                <real id="restitution">0</real>
+                <boolean id="movable">true</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+      </actors>
+      <attributes>
+        <text id="name">Main Game</text>
+        <boolean id="scrollable">true</boolean>
+      </attributes>
+    </layer>
+  </layers>
+  <attributes>
+    <text id="name">Main Game</text>
+    <real id="time">0</real>
+    <size id="size">
+      <real id="width">1024</real>
+      <real id="height">768</real>
+    </size>
+    <boolean id="wrapX">false</boolean>
+    <boolean id="wrapY">false</boolean>
+    <point id="gravity">
+      <real id="x">0</real>
+      <real id="y">0</real>
+    </point>
+    <color id="color">
+      <real id="red">0</real>
+      <real id="green">0</real>
+      <real id="blue">0</real>
+      <real id="alpha">1</real>
+    </color>
+    <rect id="camera">
+      <point id="origin">
+        <real id="x">0</real>
+        <real id="y">0</real>
+      </point>
+      <size id="size">
+        <real id="width">1024</real>
+        <real id="height">768</real>
+      </size>
+      <size id="trackingArea">
+        <real id="width">944</real>
+        <real id="height">708</real>
+      </size>
+      <real id="rotation">0</real>
+    </rect>
+    <attributes id="autorotate">
+      <boolean id="landscapeLeft">true</boolean>
+      <boolean id="portrait">false</boolean>
+      <boolean id="landscapeRight">false</boolean>
+      <boolean id="portraitUpsideDown">false</boolean>
+    </attributes>
+  </attributes>
+</scene>
